@@ -1,0 +1,11 @@
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\bin\Debug\MidtermExam.exe.config
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\bin\Debug\MidtermExam.exe
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\bin\Debug\MidtermExam.pdb
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\bin\Debug\MidtermExam.xml
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.Form1.resources
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.Resources.resources
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.vbproj.GenerateResource.Cache
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.exe
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.xml
+d:\os_files\documents\visual studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.pdb
+D:\OS_FILES\Documents\Visual Studio 2013\Projects\MidtermExam\MidtermExam\obj\Debug\MidtermExam.vbprojResolveAssemblyReference.cache
